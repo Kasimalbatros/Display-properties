@@ -1,0 +1,21 @@
+.av{
+  display:inline-block;
+  width:25%;
+  Height: 200px;
+  background-color:red;
+ 
+}
+.ax{
+  display:inline-block;
+  width:25%;
+  Height: 200px;
+  background-color:Green;
+}
+.az{
+  display:inline-block;
+  width:25%;
+  Height: 200px;
+  background-color:blue;
+}
+
+          

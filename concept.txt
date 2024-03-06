@@ -1,0 +1,21 @@
+1.Display: inline;    --> this makes all element should come in one line.
+          but drawback is Width and Height property not work in this.
+
+2.Display: inline-block;  -->this works same as inline but in this you can access
+	Width,height proprty .
+
+Note:- Difference between Display: inline;  and  Display: inline-block; is that
+inline-block; allows to set width and height on the element.
+
+
+3.Display: none;  -->no block is diplayed on screen.(Hide element without deleting.)
+
+4.Display: block;  -->displays an element as block.
+
+Note:- Difference between Display: block;  and  Display: inline-block; is that
+inline-block; does not add a line-break after the element, so the element
+can sit next to other element.
+
+
+
+
